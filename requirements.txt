@@ -1,4 +1,10 @@
-﻿joblib==1.0.1
+click==8.0.1
+colorama==0.4.4
+Flask==2.0.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+MarkupSafe==2.0.1
 numpy==1.20.3
 pandas==1.2.4
 python-dateutil==2.8.1
@@ -8,8 +14,4 @@ scipy==1.6.3
 six==1.16.0
 sklearn==0.0
 threadpoolctl==2.1.0
-gunicorn==20.0.4
-Werkzeug==0.16.0
-Jinja2==2.10.1
-itsdangerous==1.1.0
-MarkupSafe==1.1.1
+Werkzeug==2.0.1
